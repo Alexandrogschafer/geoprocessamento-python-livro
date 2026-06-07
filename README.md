@@ -2,7 +2,7 @@
 
 Repositório oficial do livro *Geoprocessamento com Python*.
 
-Acesse o livro: https://github.com/Alexandrogschafer/geoprocessamento-python-livro/blob/main/Geoprocessamento%20com%20Python.pdf
+Acesse o livro: [https://github.com/Alexandrogschafer/geoprocessamento-python-livro/blob/main/Geoprocessamento%20com%20Python.pdf](https://github.com/Alexandrogschafer/geoprocessamento-python-livro/blob/main/livro_geopython.pdf)
 
 ## Estrutura de pastas
 
